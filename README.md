@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,mysql,python&theme=dark" height="100" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Musa-Stark/Musa-Stark/blob/main/assets/tech-glow.gif" width="400" alt="Tech Glow Animation"/>
-</p>
+</p> -->
 
 ---
 
