@@ -7,7 +7,7 @@
   <img src="https://github.com/Musa-Stark/Musa-Stark/blob/main/assets/futuristic-divider.svg" width="600" alt="Divider"/>
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -38,7 +38,7 @@
 > A full-stack café shop web app built with **Next.js 15**, **MongoDB**, and **Tailwind CSS**.  
 💻 Sleek interface | ⚡ Dynamic ordering system | 🎨 Modern responsive design  
 
-### 🤖 [Jarvis AI Assistant](https://github.com/Musa-Stark/jarvis)
+### 🤖 [Jarvis AI Assistant](https://github.com/Musa-Stark/jarvis_v1)
 > Personal AI Assistant integrating **Next.js**, **Python NLP**, and **Speech Recognition**.  
 🧠 Voice-based interactions | 🔮 Smart responses | 💡 Built for next-gen web AI  
 
@@ -63,7 +63,7 @@
   <a href="https://linkedin.com/in/musa-stark" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:musa.fullstack08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://musa-stark.vercel.app" target="_blank">
@@ -76,8 +76,9 @@
 ## 🧬 Fun Touches
 
 <p align="center">
-  <img src="https://github.com/Musa-Stark/Musa-Stark/blob/main/assets/snake.svg" alt="snake gif" />
+  <img src="https://github.com/Musa-Stark/Musa-Stark/blob/output/github-snake-dark.svg" alt="snake animation" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
