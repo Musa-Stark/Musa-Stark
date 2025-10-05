@@ -9,7 +9,7 @@
 
 
 
-## 🧠 About Me
+## About Me
 
 > ⚡ “Code is the closest thing we have to magic.”
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,mysql,python&theme=dark" height="100" />
@@ -32,19 +32,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ☕ [Cafe Street](https://github.com/Musa-Stark/cafe-street)
+### [Cafe Street](https://github.com/Musa-Stark/cafe-street)
 > A full-stack café shop web app built with **Next.js 15**, **MongoDB**, and **Tailwind CSS**.  
 💻 Sleek interface | ⚡ Dynamic ordering system | 🎨 Modern responsive design  
 
-### 🤖 [Jarvis AI Assistant](https://github.com/Musa-Stark/jarvis_v1)
+### [Jarvis AI Assistant](https://github.com/Musa-Stark/jarvis_v1)
 > Personal AI Assistant integrating **Next.js**, **Python NLP**, and **Speech Recognition**.  
 🧠 Voice-based interactions | 🔮 Smart responses | 💡 Built for next-gen web AI  
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-Stark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=00F5FF&title_color=00F5FF" height="165" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌌 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/musa-stark" target="_blank">
@@ -73,7 +73,7 @@
 
 ---
 
-## 🧬 Fun Touches
+## Fun Touches
 
 <p align="center">
   <img src="https://github.com/Musa-Stark/Musa-Stark/blob/output/github-snake-dark.svg" alt="snake animation" />
