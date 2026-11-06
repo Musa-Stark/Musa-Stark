@@ -83,8 +83,8 @@ An independent technology ecosystem focused on software engineering, developer t
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musa-Stark&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Stark&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Musa-Stark&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Musa-Stark&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ An independent technology ecosystem focused on software engineering, developer t
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Stark&theme=github-compact&hide_border=true&area=true&color=10B981&line=10B981&point=34D399" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Stark&theme=github&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ An independent technology ecosystem focused on software engineering, developer t
 ## 🐍 The Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Musa-Stark/Musa-Stark/blob/output/github-snake-dark.svg" alt="A snake eating my GitHub contribution squares" width="100%" />
+  <img src="https://raw.githubusercontent.com/Musa-Stark/Musa-Stark/output/github-snake-dark.svg" alt="A snake eating my GitHub contribution squares" width="100%" />
 </p>
 
 ---
