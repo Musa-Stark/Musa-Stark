@@ -97,12 +97,6 @@ An independent technology ecosystem focused on software engineering, developer t
   <img src="https://raw.githubusercontent.com/Musa-Stark/Musa-Stark/activity-assets/activity-30d.svg" width="100%" alt="GitHub contribution activity graph — last 30 days" />
 </p>
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Musa-Stark/Musa-Stark/activity-assets/activity-30d.svg">30 days</a> ·
-  <a href="https://raw.githubusercontent.com/Musa-Stark/Musa-Stark/activity-assets/activity-90d.svg">90 days</a> ·
-  <a href="https://raw.githubusercontent.com/Musa-Stark/Musa-Stark/activity-assets/activity-365d.svg">365 days</a>
-</p>
-
 ---
 
 ## 🐍 The Contribution Snake
