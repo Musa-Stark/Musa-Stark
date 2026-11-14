@@ -25,7 +25,7 @@ I'm a developer who enjoys understanding how software works beyond the surface �
 - 🧠 Currently strengthening **backend engineering, Data Structures & Algorithms, and computer science fundamentals**.
 - 🐧 Exploring **Linux, networking, virtualization, self-hosting, and DevOps** through hands-on labs.
 - 🏗️ Building **StarkLabs**, my long-term ecosystem of software and infrastructure products.
-- 🦀 Learning **Rust** and exploring systems programming.
+- 🚀 Investing in **Go (Golang)** for backend engineering and systems development.
 - 🎓 Computer Science student, learning through coursework and building real projects.
 
 <details>
@@ -36,7 +36,7 @@ I'm a developer who enjoys understanding how software works beyond the surface �
     <li>Backend engineering — APIs, authentication, databases, and system design</li>
     <li>Linux & networking — understanding the foundations behind deployments</li>
     <li>Infrastructure — running and managing virtual machines with Proxmox</li>
-    <li>Rust — learning a typed systems language step by step</li>
+    <li>Go — building proficiency in a compiled language for backend and systems development</li>
   </ul>
 </details>
 
@@ -64,19 +64,19 @@ An independent technology ecosystem focused on software engineering, developer t
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,html,css,tailwind,linux,ubuntu,git,github,rust&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,html,css,tailwind,linux,ubuntu,git,github,go&theme=dark" alt="Technologies" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Primary-JavaScript%20%2F%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="JavaScript and TypeScript" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node backend" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Learning-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
 </p>
 
 **Currently working with:** JavaScript · TypeScript · Node.js · Express.js · React · Next.js · MongoDB · Git
 
-**Exploring:** Rust · Linux administration · Networking · Proxmox · Infrastructure · DevOps
+**Learning:** Go · Linux administration · Networking · Proxmox · Infrastructure · DevOps
 
 ---
 
